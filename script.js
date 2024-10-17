@@ -1,5 +1,5 @@
 let x = Number(prompt("Pick a number"));
-if (Number.isNaN(x)) {
+if (!Number.isNaN(x)) {
 x = "Your number is the square root of " + x * x;
 document.querySelector('#header').innerHTML = x
   console.log("Your number is the square root of " + x * x);
