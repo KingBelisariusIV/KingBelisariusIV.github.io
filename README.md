@@ -1,2 +1,2 @@
 # KingBelisariusIV.github.io
-A small wbesite in cyberspace
+A remake of def.io
