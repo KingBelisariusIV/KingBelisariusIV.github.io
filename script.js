@@ -10,6 +10,4 @@ if (!Number.isNaN(x)) {
 x = "Your number is the square root of " + x * x;
 document.querySelector('#header').innerHTML = x
   console.log("Your number is the square root of " + x * x);
-} else {
-console.log("Hey! Why didn't you pick a number")
 }
